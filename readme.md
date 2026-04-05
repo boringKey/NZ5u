@@ -1,89 +1,15 @@
-![](./figure/router_inner_eurosat/routing_distribution_task_0.png)
-***Inner Router Weight Distribution on EuroSat (Task 0)***
+|                                                              |                                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](/Users/kangborui/研究生/typoraImage/routing_distribution_task_0-5369418.png)<br>***Figure 1: Inner Router Weight Distribution on EuroSat (Task 1)*** | ![](./figure/router_inner_eurosat/routing_distribution_task_1.png)<br>***Figure 2: Inner Router Weight Distribution on EuroSat (Task 2)*** |
+| ![](./figure/router_inner_eurosat/routing_distribution_task_2.png)<br>***Figure 3: Inner Router Weight Distribution on EuroSat (Task 3)*** | ![](./figure/router_inner_eurosat/routing_distribution_task_3.png)<br>***Figure 4: Inner Router Weight Distribution on EuroSat (Task 4)***<br>*(Note: Task 5 is available in `./figure/router_inner_eurosat/`)* |
+| ![](./figure/router_outer_eurosat/routing_distribution_task_0.png)<br>***Figure 5: Outer Router Weight Distribution on EuroSat (Task 1)*** | ![](/Users/kangborui/研究生/typoraImage/routing_distribution_task_1-5369418.png)<br>***Figure 6: Outer Router Weight Distribution on EuroSat (Task 2)*** |
+| ![](/Users/kangborui/研究生/typoraImage/routing_distribution_task_2-5369418.png)<br>***Figure 7: Outer Router Weight Distribution on EuroSat (Task 3)*** | ![](/Users/kangborui/研究生/typoraImage/routing_distribution_task_3-5369418.png)<br>***Figure 8: Outer Router Weight Distribution on EuroSat (Task 4)***<br>*(Note: Task 5 is available in `./figure/router_outer_eurosat/`)* |
+| ![](./figure/router_inner_fer2013/routing_distribution_task_0.png)<br>***Figure 9: Inner Router Weight Distribution on FER2013 (Task 1)*** | ![](./figure/router_inner_fer2013/routing_distribution_task_1.png)<br>***Figure 10: Inner Router Weight Distribution on FER2013 (Task 2)*** |
+| ![](./figure/router_inner_fer2013/routing_distribution_task_2.png)<br>***Figure 11: Inner Router Weight Distribution on FER2013 (Task 3)*** | ![](./figure/router_inner_fer2013/routing_distribution_task_3.png)<br>***Figure 12: Inner Router Weight Distribution on FER2013 (Task 4)*** |
+| ![](./figure/router_outer_fer2013/routing_distribution_task_0.png)<br>***Figure 13: Outer Router Weight Distribution on FER2013 (Task 1)*** | ![](./figure/router_outer_fer2013/routing_distribution_task_1.png)<br>***Figure 14: Outer Router Weight Distribution on FER2013 (Task 2)*** |
+| ![](./figure/router_outer_fer2013/routing_distribution_task_2.png)<br>***Figure 15: Outer Router Weight Distribution on FER2013 (Task 3)*** | ![](./figure/router_outer_fer2013/routing_distribution_task_3.png)<br>***Figure 16: Outer Router Weight Distribution on FER2013 (Task 4)*** |
+| ![](./figure/router_inner_flower/routing_distribution_task_0.png)<br>***Figure 17: Inner Router Weight Distribution on Flower (Task 1)*** | ![](./figure/router_inner_flower/routing_distribution_task_1.png)<br>***Figure 18: Inner Router Weight Distribution on Flower (Task 2)*** |
+| ![](./figure/router_inner_flower/routing_distribution_task_2.png)<br>***Figure 19: Inner Router Weight Distribution on Flower (Task 3)*** | ![](./figure/router_inner_flower/routing_distribution_task_3.png)<br>***Figure 20: Inner Router Weight Distribution on Flower (Task 4)***<br>*(Note: Tasks 5-17 are available in `./figure/router_inner_flower/`)* |
+| ![](./figure/router_outer_flower/routing_distribution_task_0.png)<br>***Figure 21: Outer Router Weight Distribution on Flower (Task 1)*** | ![](./figure/router_outer_flower/routing_distribution_task_1.png)<br>***Figure 22: Outer Router Weight Distribution on Flower (Task 2)*** |
+| ![](./figure/router_outer_flower/routing_distribution_task_2.png)<br>***Figure 23: Outer Router Weight Distribution on Flower (Task 3)*** | ![](./figure/router_outer_flower/routing_distribution_task_3.png)<br>***Figure 24: Outer Router Weight Distribution on Flower (Task 4)***<br>*(Note: Tasks 5-17 are available in `./figure/router_outer_flower/`)* |
 
-![](./figure/router_inner_eurosat/routing_distribution_task_1.png)
-***Inner Router Weight Distribution on EuroSat (Task 1)***
-
-![](./figure/router_inner_eurosat/routing_distribution_task_2.png)
-***Inner Router Weight Distribution on EuroSat (Task 2)***
-
-![](./figure/router_inner_eurosat/routing_distribution_task_3.png)
-***Inner Router Weight Distribution on EuroSat (Task 3)***
-
-![](./figure/router_inner_eurosat/routing_distribution_task_4.png)
-***Inner Router Weight Distribution on EuroSat (Task 4)***
-
-![](./figure/router_inner_fer2013/routing_distribution_task_0.png)
-***Inner Router Weight Distribution on FER2013 (Task 0)***
-
-![](./figure/router_inner_fer2013/routing_distribution_task_1.png)
-***Inner Router Weight Distribution on FER2013 (Task 1)***
-
-![](./figure/router_inner_fer2013/routing_distribution_task_2.png)
-***Inner Router Weight Distribution on FER2013 (Task 2)***
-
-![](./figure/router_inner_fer2013/routing_distribution_task_3.png)
-***Inner Router Weight Distribution on FER2013 (Task 3)***
-
-![](./figure/router_inner_fer2013/routing_distribution_task_4.png)
-***Inner Router Weight Distribution on FER2013 (Task 4)***
-
-![](./figure/router_inner_flower/routing_distribution_task_0.png)
-***Inner Router Weight Distribution on Flower (Task 0)***
-
-![](./figure/router_inner_flower/routing_distribution_task_1.png)
-***Inner Router Weight Distribution on Flower (Task 1)***
-
-![](./figure/router_inner_flower/routing_distribution_task_2.png)
-***Inner Router Weight Distribution on Flower (Task 2)***
-
-![](./figure/router_inner_flower/routing_distribution_task_3.png)
-***Inner Router Weight Distribution on Flower (Task 3)***
-
-![](./figure/router_inner_flower/routing_distribution_task_4.png)
-***Inner Router Weight Distribution on Flower (Task 4)***
-
-![](./figure/router_outer_eurosat/routing_distribution_task_0.png)
-***Outer Router Weight Distribution on EuroSat (Task 0)***
-
-![](./figure/router_outer_eurosat/routing_distribution_task_1.png)
-***Outer Router Weight Distribution on EuroSat (Task 1)***
-
-![](./figure/router_outer_eurosat/routing_distribution_task_2.png)
-***Outer Router Weight Distribution on EuroSat (Task 2)***
-
-![](./figure/router_outer_eurosat/routing_distribution_task_3.png)
-***Outer Router Weight Distribution on EuroSat (Task 3)***
-
-![](./figure/router_outer_eurosat/routing_distribution_task_4.png)
-***Outer Router Weight Distribution on EuroSat (Task 4)***
-
-![](./figure/router_outer_fer2013/routing_distribution_task_0.png)
-***Outer Router Weight Distribution on FER2013 (Task 0)***
-
-![](./figure/router_outer_fer2013/routing_distribution_task_1.png)
-***Outer Router Weight Distribution on FER2013 (Task 1)***
-
-![](./figure/router_outer_fer2013/routing_distribution_task_2.png)
-***Outer Router Weight Distribution on FER2013 (Task 2)***
-
-![](./figure/router_outer_fer2013/routing_distribution_task_3.png)
-***Outer Router Weight Distribution on FER2013 (Task 3)***
-
-![](./figure/router_outer_fer2013/routing_distribution_task_4.png)
-***Outer Router Weight Distribution on FER2013 (Task 4)***
-
-![](./figure/router_outer_flower/routing_distribution_task_0.png)
-***Outer Router Weight Distribution on Flower (Task 0)***
-
-![](./figure/router_outer_flower/routing_distribution_task_1.png)
-***Outer Router Weight Distribution on Flower (Task 1)***
-
-![](./figure/router_outer_flower/routing_distribution_task_2.png)
-***Outer Router Weight Distribution on Flower (Task 2)***
-
-![](./figure/router_outer_flower/routing_distribution_task_3.png)
-***Outer Router Weight Distribution on Flower (Task 3)***
-
-![](./figure/router_outer_flower/routing_distribution_task_4.png)
-***Outer Router Weight Distribution on Flower (Task 4)***
